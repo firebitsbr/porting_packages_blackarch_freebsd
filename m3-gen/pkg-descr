@@ -1,0 +1,3 @@
+Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass, this tool intended for adversary simulation and red teaming purpose.
+
+WWW: https://github.com/infosecn1nja/MaliciousMacroMSBuild

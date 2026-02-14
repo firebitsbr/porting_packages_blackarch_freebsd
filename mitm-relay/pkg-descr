@@ -1,0 +1,3 @@
+Hackish way to intercept and modify non-HTTP protocols through Burp & others.
+
+WWW: https://github.com/jrmdev/mitm_relay

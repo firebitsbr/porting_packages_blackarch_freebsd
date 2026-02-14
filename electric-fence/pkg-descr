@@ -1,0 +1,3 @@
+A malloc(3) debugger that uses virtual memory hardware to detect illegal memory accesses.
+
+WWW: https://packages.debian.org/sid/electric-fence

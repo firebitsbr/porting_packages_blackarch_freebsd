@@ -1,0 +1,3 @@
+A command line tool that checks your PHP application packages with known security vulnerabilities.
+
+WWW: https://github.com/fabpot/local-php-security-checker

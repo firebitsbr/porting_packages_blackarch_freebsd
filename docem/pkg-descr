@@ -1,0 +1,3 @@
+Uility to embed XXE and XSS payloads in docx,odt,pptx,etc (OXML_XEE on steroids).
+
+WWW: https://github.com/whitel1st/docem

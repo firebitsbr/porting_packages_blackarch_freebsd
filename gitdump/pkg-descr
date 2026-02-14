@@ -1,0 +1,3 @@
+A pentesting tool that dumps the source code from .git even when the directory traversal is disabled.
+
+WWW: https://github.com/Ebryx/GitDump

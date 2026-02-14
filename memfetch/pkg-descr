@@ -1,0 +1,3 @@
+Dumps any userspace process memory without affecting its execution.
+
+WWW: http://lcamtuf.coredump.cx/

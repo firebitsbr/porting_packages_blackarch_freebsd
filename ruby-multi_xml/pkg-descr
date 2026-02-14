@@ -1,0 +1,3 @@
+Provides swappable XML backends utilizing LibXML, Nokogiri, Ox, or REXML.
+
+WWW: https://rubygems.org/gems/multi_xml

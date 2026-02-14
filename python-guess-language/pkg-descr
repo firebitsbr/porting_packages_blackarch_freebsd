@@ -1,0 +1,3 @@
+Attempts to determine the natural language of a selection of Unicode (utf-8) text.
+
+WWW: https://pypi.python.org/pypi/guess-language

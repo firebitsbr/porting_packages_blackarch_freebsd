@@ -1,0 +1,3 @@
+A PHP denial of service / stress test for Web Servers running PHP-FPM or PHP-CGI.
+
+WWW: https://github.com/nightlionsecurity/phpstress

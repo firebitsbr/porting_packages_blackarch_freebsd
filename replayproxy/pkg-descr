@@ -1,0 +1,3 @@
+Forensic tool to replay web-based attacks (and also general HTTP traffic) that were captured in a pcap file.
+
+WWW: https://code.google.com/p/replayproxy/

@@ -1,0 +1,3 @@
+Python2s stdlib csv module is nice, but it doesnt support unicode. This module is a drop-in replacement which *does*.
+
+WWW: https://pypi.org/project/unicodecsv/#files

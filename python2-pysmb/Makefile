@@ -1,0 +1,21 @@
+PORTNAME=	python2-pysmb
+DISTVERSION=	1.2.13
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	An experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines.
+WWW=		https://pypi.org/project/pysmb/#files
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/py-setuptools@${PY_FLAVOR}
+
+RUN_DEPENDS=	??/py-pyasn1@${PY_FLAVOR} \
+		??/py-tqdm@${PY_FLAVOR} \
+		lang/python3
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

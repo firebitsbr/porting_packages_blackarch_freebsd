@@ -1,0 +1,3 @@
+A byte code analyzer for finding deserialization gadget chains in Java applications.
+
+WWW: https://github.com/JackOfMostTrades/gadgetinspector

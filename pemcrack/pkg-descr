@@ -1,0 +1,3 @@
+Cracks SSL PEM files that hold encrypted private keys. Brute forces or dictionary cracks.
+
+WWW: https://github.com/robertdavidgraham/pemcrack

@@ -1,0 +1,3 @@
+Check if a list of domains can be spoofed based on SPF and DMARC records.
+
+WWW: https://github.com/MattKeeley/Spoofy

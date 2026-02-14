@@ -1,0 +1,3 @@
+Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL.
+
+WWW: https://pypi.org/project/ndg-httpsclient/#files

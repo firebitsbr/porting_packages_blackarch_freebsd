@@ -1,0 +1,3 @@
+Async parser for NTDS.dit database file for obtaining user secrets and JET databases.
+
+WWW: https://pypi.org/project/aesedb/#files

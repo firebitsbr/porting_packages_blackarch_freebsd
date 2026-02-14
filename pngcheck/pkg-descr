@@ -1,0 +1,3 @@
+Verifies the integrity of PNG, JNG and MNG files by checking the CRCs and decompressing the image data.
+
+WWW: http://www.libpng.org/pub/png/apps/pngcheck.html

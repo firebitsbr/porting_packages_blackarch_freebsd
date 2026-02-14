@@ -1,0 +1,21 @@
+PORTNAME=	extractusnjrnl
+DISTVERSION=	7.362d4290
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	Tool to extract the $UsnJrnl from an NTFS volume.
+WWW=		https://github.com/jschicht/ExtractUsnJrnl
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/git
+
+RUN_DEPENDS=	??/wine-mono \
+		??/wine_gecko \
+		emulators/wine
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

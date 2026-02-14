@@ -1,0 +1,3 @@
+This program hides UDP traffic as TCP traffic in order to bypass certain firewalls.
+
+WWW: https://github.com/Hello71/udpastcp

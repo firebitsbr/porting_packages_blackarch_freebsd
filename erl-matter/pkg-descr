@@ -1,0 +1,3 @@
+Tool to exploit epmd related services such as rabbitmq, ejabberd and couchdb by bruteforcing the cookie and gaining RCE afterwards.
+
+WWW: https://github.com/gteissier/erl-matter

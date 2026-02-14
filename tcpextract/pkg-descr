@@ -1,0 +1,3 @@
+Extracts files from captured TCP sessions. Support live streams and pcap files.
+
+WWW: https://pypi.org/project/tcpextract/#files

@@ -1,0 +1,3 @@
+Script to enumerate users, groups and computers from a Windows domain through LDAP queries.
+
+WWW: https://github.com/ropnop/windapsearch

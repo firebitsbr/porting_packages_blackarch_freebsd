@@ -1,0 +1,3 @@
+A set of shell tools that let you manipulate, send, receive, and analyze HTTP messages. These tools can be used to test, discover, and assert the security of Web servers, apps, and sites. An accompanying Python library is available for extensions.
+
+WWW: http://packetstormsecurity.com/files/98109/HTTPForge-11.02.01.html

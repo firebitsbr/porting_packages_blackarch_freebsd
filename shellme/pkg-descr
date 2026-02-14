@@ -1,0 +1,3 @@
+Because sometimes you just need shellcode and opcodes quickly. This essentially just wraps some nasm/objdump calls into a neat script.
+
+WWW: https://github.com/hatRiot/shellme

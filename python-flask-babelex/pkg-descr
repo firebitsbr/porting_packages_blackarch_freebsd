@@ -1,0 +1,3 @@
+i18n and l10n support for Flask based on Babel and pytz.
+
+WWW: https://github.com/mrjoes/flask-babelex

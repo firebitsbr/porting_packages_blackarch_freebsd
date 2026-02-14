@@ -1,0 +1,3 @@
+SSDP amplification scanner written in Python. Makes use of Scapy.
+
+WWW: http://packetstormsecurity.com/files/127994/SSDP-Amplification-Scanner.html

@@ -1,0 +1,3 @@
+This php script fingerprints a given Joomla system and then uses Packet Storms archive to check for bugs related to the installed components.
+
+WWW: http://packetstormsecurity.com/files/121390/Janissaries-Joomla-Fingerprint-Tool.html

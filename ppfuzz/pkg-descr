@@ -1,0 +1,3 @@
+A fast tool to scan client-side prototype pollution vulnerability written in Rust.
+
+WWW: https://github.com/dwisiswant0/ppfuzz

@@ -1,0 +1,3 @@
+Extract docx headers, footers, text, footnotes, endnotes, properties, and images to a Python object.
+
+WWW: https://pypi.org/project/docx2python/

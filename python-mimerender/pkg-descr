@@ -1,0 +1,3 @@
+Transparently select a render function for an HTTP request handlers result.
+
+WWW: https://github.com/martinblech/mimerender

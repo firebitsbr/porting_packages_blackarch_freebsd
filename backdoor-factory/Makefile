@@ -1,0 +1,22 @@
+PORTNAME=	backdoor-factory
+DISTVERSION=	210.0c53045
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	Patch win32/64 binaries with shellcode.
+WWW=		https://github.com/secretsquirrel/the-backdoor-factory
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/git
+
+RUN_DEPENDS=	??/py-capstone@${PY_FLAVOR} \
+		??/py-pefile@${PY_FLAVOR} \
+		devel/py-setuptools@${PY_FLAVOR} \
+		lang/python3
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

@@ -1,0 +1,3 @@
+A binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
+
+WWW: https://github.com/google/binnavi

@@ -1,0 +1,3 @@
+Parse the Group Policy Preferences XML file which extracts the username and decrypts the cpassword attribute.
+
+WWW: https://github.com/t0thkr1s/gpp-decrypt

@@ -1,0 +1,3 @@
+Native inet_pton and inet_ntop implementation for Python on Windows (with ctypes).
+
+WWW: https://pypi.org/project/win_inet_pton/#files

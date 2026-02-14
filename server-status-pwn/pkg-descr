@@ -1,0 +1,3 @@
+A script that monitors and extracts requested URLs and clients connected to the service by exploiting publicly accessible Apache server-status instances.
+
+WWW: https://github.com/mazen160/server-status_PWN

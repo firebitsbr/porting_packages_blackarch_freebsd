@@ -1,0 +1,3 @@
+Flask extension to protect applications with HTTP basic access authentication.
+
+WWW: https://pypi.org/project/Flask-BasicAuth

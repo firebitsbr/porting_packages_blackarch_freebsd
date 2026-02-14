@@ -1,0 +1,3 @@
+A LLMNR and NBT-NS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2 (multirelay version).
+
+WWW: https://github.com/lgandx/Responder

@@ -1,0 +1,3 @@
+Compiles C/C++ style code into a small, position-independent and NULL-free shellcode for Windows & Linux.
+
+WWW: https://github.com/NytroRST/ShellcodeCompiler

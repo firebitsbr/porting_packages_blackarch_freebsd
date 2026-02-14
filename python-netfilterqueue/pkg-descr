@@ -1,0 +1,3 @@
+A Python bindings for libnetfilter_queue.
+
+WWW: https://github.com/fqrouter/python-netfilterqueue

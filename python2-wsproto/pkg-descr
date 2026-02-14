@@ -1,0 +1,3 @@
+WebSockets state-machine based protocol implementation.
+
+WWW: https://github.com/python-hyper/wsproto

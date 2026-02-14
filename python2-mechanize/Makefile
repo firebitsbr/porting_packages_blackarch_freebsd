@@ -1,0 +1,20 @@
+PORTNAME=	python2-mechanize
+DISTVERSION=	0.4.5
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	Stateful programmatic web browsing..
+WWW=		https://pypi.org/project/mechanize/#files
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/py-setuptools@${PY_FLAVOR}
+
+RUN_DEPENDS=	??/py-html5lib@${PY_FLAVOR} \
+		lang/python3
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

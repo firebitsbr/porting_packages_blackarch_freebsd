@@ -1,0 +1,22 @@
+PORTNAME=	kadimus
+DISTVERSION=	183.ac5f438
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	LFI Scan & Exploit Tool.
+WWW=		https://github.com/P0cL4bs/Kadimus
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/git
+
+RUN_DEPENDS=	??/libssh \
+		??/pcre \
+		ftp/curl \
+		security/openssl
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

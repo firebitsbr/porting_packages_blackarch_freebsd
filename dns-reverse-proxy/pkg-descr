@@ -1,0 +1,3 @@
+A reverse DNS proxy written in Go.
+
+WWW: https://github.com/StalkR/dns-reverse-proxy

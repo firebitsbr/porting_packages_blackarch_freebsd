@@ -1,0 +1,3 @@
+Allows two peers behind two separate NATs with no port forwarding and no DMZ setup on their routers to directly communicate with each other
+
+WWW: http://samy.pl/chownat/

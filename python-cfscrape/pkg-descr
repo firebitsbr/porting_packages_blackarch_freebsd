@@ -1,0 +1,3 @@
+A small Python module to bypass Cloudflares anti-bot page, using Requests.
+
+WWW: https://pypi.org/project/cfscrape/#files

@@ -1,0 +1,3 @@
+Generate HDCP source and sink keys from the leaked master key.
+
+WWW: https://github.com/rjw57/hdcp-genkey

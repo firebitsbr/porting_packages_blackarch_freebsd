@@ -1,0 +1,3 @@
+Pure Python parser for recent Windows event log files (.evtx).
+
+WWW: https://pypi.org/project/python-evtx/#files

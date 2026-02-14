@@ -1,0 +1,3 @@
+A Twisted-based publish/subscribe messaging server that uses the STOMP protocol.
+
+WWW: https://pypi.org/project/morbid/#files

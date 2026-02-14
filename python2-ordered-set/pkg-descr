@@ -1,0 +1,3 @@
+A MutableSet that remembers its order, so that every entry has an index.
+
+WWW: https://pypi.org/project/ordered-set/#files

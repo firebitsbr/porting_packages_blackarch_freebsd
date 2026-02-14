@@ -1,0 +1,3 @@
+Multi-theaded DNS bruteforcing, average speed 80 lookups/second with 40 threads.
+
+WWW: https://github.com/d4rkcat/dnsbrute

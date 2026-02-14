@@ -1,0 +1,3 @@
+Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.
+
+WWW: https://github.com/RhinoSecurityLabs/SleuthQL

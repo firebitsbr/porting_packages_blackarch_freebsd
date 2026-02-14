@@ -1,0 +1,3 @@
+DB-API interface to Microsoft SQL Server for Python. (new Cython-based version).
+
+WWW: https://pypi.org/project/pymssql/#files

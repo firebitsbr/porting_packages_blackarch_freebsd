@@ -1,0 +1,3 @@
+A handy DNS service written in Go to aid in the detection of several types of blind vulnerabilities.
+
+WWW: https://github.com/allyomalley/dnsobserver

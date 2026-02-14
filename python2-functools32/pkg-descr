@@ -1,0 +1,3 @@
+Backport of the functools module from Python 3.2.3 for use on 2.7 and PyPy.
+
+WWW: https://pypi.org/project/functools32/#files

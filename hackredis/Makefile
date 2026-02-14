@@ -1,0 +1,22 @@
+PORTNAME=	hackredis
+DISTVERSION=	3.fbae1bc
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	A simple tool to scan and exploit redis servers.
+WWW=		https://github.com/Ridter/hackredis
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/git
+
+RUN_DEPENDS=	??/py-paramiko@${PY_FLAVOR} \
+		??/py-pexpect@${PY_FLAVOR} \
+		??/py-redis@${PY_FLAVOR} \
+		lang/python3
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

@@ -1,0 +1,3 @@
+Perl wrapper on gcrypt for directory encryption/decryption.
+
+WWW: https://gitlab.com/GasparVardanyan/gdir.pl

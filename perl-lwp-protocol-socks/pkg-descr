@@ -1,0 +1,3 @@
+Adds support for the socks protocol and proxy facility.
+
+WWW: https://metacpan.org/pod/LWP::Protocol::socks

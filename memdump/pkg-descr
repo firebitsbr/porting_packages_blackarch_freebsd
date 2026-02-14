@@ -1,0 +1,3 @@
+Dumps system memory to stdout, skipping over holes in memory maps.
+
+WWW: http://www.porcupine.org/forensics/tct.html

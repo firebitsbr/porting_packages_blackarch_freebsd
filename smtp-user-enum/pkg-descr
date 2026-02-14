@@ -1,0 +1,3 @@
+Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
+
+WWW: https://pentestmonkey.net/tools/user-enumeration/smtp-user-enum

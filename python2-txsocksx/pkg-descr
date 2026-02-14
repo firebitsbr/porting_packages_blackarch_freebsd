@@ -1,0 +1,3 @@
+Twisted client endpoints for SOCKS{4,4a,5}.
+
+WWW: https://pypi.python.org/pypi/txsocksx/

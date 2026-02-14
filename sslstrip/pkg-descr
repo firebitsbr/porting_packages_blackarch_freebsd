@@ -1,0 +1,3 @@
+Python tool to hijack HTTPS connections during a MITM attack.
+
+WWW: https://github.com/moxie0/sslstrip

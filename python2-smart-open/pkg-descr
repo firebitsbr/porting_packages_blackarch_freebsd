@@ -1,0 +1,3 @@
+Utils for streaming large files (S3, HDFS, gzip, bz2...).
+
+WWW: https://pypi.org/project/smart-open/#files

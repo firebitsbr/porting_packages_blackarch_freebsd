@@ -1,0 +1,3 @@
+Script which uses a PEiD database to identify which packer (if any) is being used by a binary.
+
+WWW: https://github.com/sooshie/packerid

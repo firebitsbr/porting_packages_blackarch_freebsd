@@ -1,0 +1,3 @@
+Drop-in replacement for Python CSV library that tries to mitigate CSV injection attacks
+
+WWW: https://github.com/raphaelm/defusedcsv

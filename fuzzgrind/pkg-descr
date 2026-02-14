@@ -1,0 +1,3 @@
+A fully automatic fuzzing tool, generating test files with the purpose of discovering new execution paths likely to trigger bugs and potentially vulnerabilities.
+
+WWW: http://seclabs.org/fuzzgrind/

@@ -1,0 +1,3 @@
+Scans shell command history to detect mistakenly written passwords, API keys, and secrets.
+
+WWW: https://github.com/aydinnyunus/PassDetective

@@ -1,0 +1,3 @@
+Classes and metaclasses for easier __slots__ handling.
+
+WWW: https://github.com/cjrh/autoslot

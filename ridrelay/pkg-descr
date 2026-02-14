@@ -1,0 +1,3 @@
+Enumerate usernames on a domain where you have no creds by using SMB Relay with low priv.
+
+WWW: https://github.com/skorov/ridrelay

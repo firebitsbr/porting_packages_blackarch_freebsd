@@ -1,0 +1,3 @@
+A tool to poison a targeted issuer of SIP INVITE requests with 301 (i.e. Moved Permanently) redirection responses.
+
+WWW: http://www.hackingexposedvoip.com/

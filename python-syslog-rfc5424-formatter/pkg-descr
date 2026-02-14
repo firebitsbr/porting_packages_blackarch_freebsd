@@ -1,0 +1,3 @@
+Logging formatter which produces well-formatted RFC5424 Syslog Protocol messages.
+
+WWW: https://pypi.org/project/syslog-rfc5424-formatter/#files

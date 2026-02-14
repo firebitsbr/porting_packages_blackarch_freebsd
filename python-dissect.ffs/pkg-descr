@@ -1,0 +1,3 @@
+A Dissect module implementing a parser for the FFS file system, commonly used by BSD operating systems.
+
+WWW: https://github.com/fox-it/dissect.ffs

@@ -1,0 +1,3 @@
+A simple python script that brute forces DNS and subsequently geolocates the found subdomains.
+
+WWW: http://packetstormsecurity.com/files/118036/DNS-2-GeoIP.html

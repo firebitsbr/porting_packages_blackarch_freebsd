@@ -1,0 +1,20 @@
+PORTNAME=	python2-apsw
+DISTVERSION=	3.33.0
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	Another Python SQLite Wrapper.
+WWW=		https://pypi.org/project/apsw/#files
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/py-setuptools@${PY_FLAVOR}
+
+RUN_DEPENDS=	??/sqlite \
+		lang/python3
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

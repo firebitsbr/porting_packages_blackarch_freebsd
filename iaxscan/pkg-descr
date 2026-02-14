@@ -1,0 +1,3 @@
+A Python based scanner for detecting live IAX/2 hosts and then enumerating (by bruteforce) users on those hosts.
+
+WWW: http://code.google.com/p/iaxscan/

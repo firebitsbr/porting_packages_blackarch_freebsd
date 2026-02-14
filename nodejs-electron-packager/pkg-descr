@@ -1,0 +1,3 @@
+Customize and package your Electron app with OS-specific bundles (.app, .exe etc) via JS or CL.
+
+WWW: https://www.npmjs.com/package/electron-packager

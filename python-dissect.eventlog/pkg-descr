@@ -1,0 +1,3 @@
+A Dissect module implementing parsers for the Windows EVT, EVTX and WEVT log file formats.
+
+WWW: https://github.com/fox-it/dissect.eventlog

@@ -1,0 +1,3 @@
+Fast, simple packet creation / parsing module for python, with definitions for the basic TCP/IP protocols.
+
+WWW: http://code.google.com/p/dpkt/

@@ -1,0 +1,3 @@
+Analyze OLE files (Compound File Binary Format). These files contain streams of data. This tool allows you to analyze these streams.
+
+WWW: http://blog.didierstevens.com/programs/oledump-py/

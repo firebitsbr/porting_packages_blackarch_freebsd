@@ -1,0 +1,3 @@
+A mitm proxy that will transparently proxy and dump both plaintext and TLS traffic.
+
+WWW: https://github.com/ipopov/starttls-mitm

@@ -1,0 +1,3 @@
+POSIX function tracing. Much better and faster than ftrace.
+
+WWW: https://github.com/elfmaster/binflow

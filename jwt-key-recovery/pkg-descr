@@ -1,0 +1,3 @@
+Recovers the public key used to sign JWT tokens.
+
+WWW: https://github.com/FlorianPicca/JWT-Key-Recovery

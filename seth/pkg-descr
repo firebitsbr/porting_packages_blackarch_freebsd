@@ -1,0 +1,3 @@
+Perform a MitM attack and extract clear text credentials from RDP connections.
+
+WWW: https://github.com/SySS-Research/Seth

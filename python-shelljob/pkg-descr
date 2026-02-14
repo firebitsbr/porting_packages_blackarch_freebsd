@@ -1,0 +1,3 @@
+Run multiple subprocesses asynchronous/in parallel with streamed output/non-blocking reading. Also various tools to replace shell scripts.
+
+WWW: https://pypi.org/project/shelljob/#files

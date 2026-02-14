@@ -1,0 +1,3 @@
+Aid operators in modifying ADCS certificate templates so that a created vulnerable state can be leveraged for privilege escalation.
+
+WWW: https://github.com/fortalice/modifyCertTemplate

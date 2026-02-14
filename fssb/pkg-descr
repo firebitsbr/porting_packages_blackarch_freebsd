@@ -1,0 +1,3 @@
+A low-level filesystem sandbox for Linux using syscall intercepts.
+
+WWW: https://github.com/adtac/fssb

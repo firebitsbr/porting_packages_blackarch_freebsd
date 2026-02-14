@@ -1,0 +1,3 @@
+A small tool that implements part of the functionality of the Microsoft tool signtool.exe.
+
+WWW: https://github.com/mtrojnar/osslsigncode

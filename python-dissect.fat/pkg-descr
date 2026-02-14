@@ -1,0 +1,3 @@
+A Dissect module implementing parsers for the FAT and exFAT file systems, commonly used on flash memory based storage devices and UEFI partitions.
+
+WWW: https://github.com/fox-it/dissect.fat

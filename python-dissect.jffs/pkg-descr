@@ -1,0 +1,3 @@
+A Dissect module implementing a parser for the JFFS2 file system, commonly used by router operating systems.
+
+WWW: https://github.com/fox-it/dissect.jffs

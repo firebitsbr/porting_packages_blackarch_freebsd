@@ -1,0 +1,3 @@
+Perl script which scans cisco routers for common vulnerabilities. Checks for default passwords, easily guessable community names, and the IOS history bug. Includes support for plugins and scanning multiple hosts.
+
+WWW: http://www.scrypt.net

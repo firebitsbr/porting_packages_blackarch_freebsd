@@ -1,0 +1,3 @@
+Command line tool to fetch, decode, brute-force and craft session cookies of a Flask application by guessing secret keys.
+
+WWW: https://github.com/Paradoxis/Flask-Unsign

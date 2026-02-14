@@ -1,0 +1,3 @@
+Classes to parse the following file formats - Executable and Linking Format (ELF) , Portable Executable (PE), Mach-O and OAT (Android Runtime).
+
+WWW: https://pypi.org/project/filebytes/#files

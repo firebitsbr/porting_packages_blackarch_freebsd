@@ -1,0 +1,3 @@
+A unix python program that wraps commands to make them behave as proper daemon.
+
+WWW: https://pypi.org/project/zdaemon/

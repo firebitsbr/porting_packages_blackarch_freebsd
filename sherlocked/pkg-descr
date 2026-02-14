@@ -1,0 +1,3 @@
+Universal script packer-- transforms any type of script into a protected ELF executable, encrypted with anti-debugging.
+
+WWW: https://github.com/elfmaster/sherlocked

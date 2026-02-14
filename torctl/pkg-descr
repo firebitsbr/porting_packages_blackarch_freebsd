@@ -1,0 +1,3 @@
+Script to redirect all traffic through tor network including dns queries for anonymizing entire system.
+
+WWW: https://github.com/BlackArch/torctl

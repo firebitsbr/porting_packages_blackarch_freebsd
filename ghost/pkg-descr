@@ -1,0 +1,3 @@
+Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device.
+
+WWW: https://github.com/EntySec/Ghost

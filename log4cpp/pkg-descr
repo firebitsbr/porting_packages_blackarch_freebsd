@@ -1,0 +1,3 @@
+A library of C++ classes for flexible logging to files, syslog, IDSA and other destinations.
+
+WWW: http://log4cpp.sourceforge.net/

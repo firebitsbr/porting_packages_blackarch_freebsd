@@ -1,0 +1,3 @@
+A pure-Python API to Mercurial, that uses the command-line interface instead of the internal Mercurial API.
+
+WWW: https://bitbucket.org/haard/hgapi/

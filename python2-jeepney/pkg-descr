@@ -1,0 +1,3 @@
+Low-level, pure Python DBus protocol wrapper.
+
+WWW: https://gitlab.com/takluyver/jeepney

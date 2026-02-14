@@ -1,0 +1,3 @@
+Port of Wappalyzer (uncovers technologies used on websites) in go to automate scanning.
+
+WWW: https://github.com/rverton/webanalyze

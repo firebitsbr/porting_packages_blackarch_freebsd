@@ -1,0 +1,3 @@
+Base-class for a tcpdump like implementation.
+
+WWW: https://metacpan.org/pod/Net::Frame::Dump

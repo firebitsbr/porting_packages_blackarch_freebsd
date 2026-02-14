@@ -1,0 +1,3 @@
+A Struct that can read/write itself from/to IO-like objects.
+
+WWW: https://rubygems.org/gems/iostruct

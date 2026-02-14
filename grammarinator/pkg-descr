@@ -1,0 +1,3 @@
+A random test generator / fuzzer that creates test cases according to an input ANTLR v4 grammar.
+
+WWW: https://github.com/renatahodovan/grammarinator

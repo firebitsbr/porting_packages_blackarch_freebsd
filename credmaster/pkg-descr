@@ -1,0 +1,3 @@
+Refactored & improved CredKing password spraying tool, uses FireProx APIs to rotate IP addresses, stay anonymous, and beat throttling.
+
+WWW: https://github.com/knavesec/CredMaster

@@ -1,0 +1,3 @@
+A Dissect module implementing a parsers for full volume encryption implementations, currently Microsofts Bitlocker Disk Encryption (BDE) and Linux Unified Key Setup (LUKS1 and LUKS2).
+
+WWW: https://github.com/fox-it/dissect.fve

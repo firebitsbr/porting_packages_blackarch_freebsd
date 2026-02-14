@@ -1,0 +1,3 @@
+Python library to fetch the top 1..N (where N < 1 million) sites from alexa.
+
+WWW: https://github.com/philarkwright/Alexa-Top-Sites

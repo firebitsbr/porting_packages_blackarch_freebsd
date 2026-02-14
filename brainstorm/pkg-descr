@@ -1,0 +1,3 @@
+A smarter web fuzzing tool that combines local LLM models and ffuf to optimize directory and file discovery.
+
+WWW: https://github.com/s7x/brainstorm

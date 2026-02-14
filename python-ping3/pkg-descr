@@ -1,0 +1,3 @@
+A pure python3 version of ICMP ping implementation using raw socket.
+
+WWW: https://pypi.org/project/ping3/#files

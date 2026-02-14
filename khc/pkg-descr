@@ -1,0 +1,3 @@
+A small tool designed to recover hashed known_hosts fields back to their plain-text equivalents.
+
+WWW: http://packetstormsecurity.com/files/87003/Known-Host-Cracker-0.2.html

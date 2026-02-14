@@ -1,0 +1,3 @@
+Internal pentest framework running in your browser via WebAssembly, powerd by Pyodide
+
+WWW: https://github.com/skelsec/octopwnweb

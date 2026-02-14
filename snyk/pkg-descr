@@ -1,0 +1,3 @@
+CLI and build-time tool to find and fix known vulnerabilities in open-source dependencies.
+
+WWW: https://github.com/snyk/cli

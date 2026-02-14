@@ -1,0 +1,3 @@
+A small Python module for determining appropriate platform-specific dirs, e.g. a user data dir.
+
+WWW: https://pypi.org/project/platformdirs/#files

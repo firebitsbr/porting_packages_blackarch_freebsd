@@ -1,0 +1,3 @@
+A semi fast tool to bruteforce values of LDAP injections over HTTP.
+
+WWW: https://github.com/droope/ldap-brute

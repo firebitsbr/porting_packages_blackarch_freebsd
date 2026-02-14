@@ -1,0 +1,3 @@
+A Dissect module implementing a parser for the Object Linking & Embedding (OLE) format, commonly used by document editors on Windows operating systems.
+
+WWW: https://github.com/fox-it/dissect.ole

@@ -1,0 +1,3 @@
+Boofuzz is a fork of Sulley fuzzing framework and aims for extensibility. The goal: fuzz everything.
+
+WWW: https://pypi.org/project/boofuzz/

@@ -1,0 +1,3 @@
+A Dissect module implementing a parsers for various forensic evidence file containers, currently: AD1, ASDF and EWF.
+
+WWW: https://github.com/fox-it/dissect.evidence

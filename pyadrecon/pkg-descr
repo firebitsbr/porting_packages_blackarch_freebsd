@@ -1,0 +1,3 @@
+Gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
+
+WWW: https://github.com/l4rm4nd/PyADRecon

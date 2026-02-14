@@ -1,0 +1,3 @@
+Parse C++ header files and generate a data structure representing the class.
+
+WWW: https://pypi.org/project/cxxheaderparser/#files

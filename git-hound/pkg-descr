@@ -1,0 +1,3 @@
+Pinpoints exposed API keys on GitHub. A batch-catching, pattern-matching, patch-attacking secret snatcher.
+
+WWW: https://github.com/tillson/git-hound

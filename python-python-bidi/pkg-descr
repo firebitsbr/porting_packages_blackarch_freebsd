@@ -1,0 +1,3 @@
+Python Bidi layout wrapping the Rust crate unicode-bidi.
+
+WWW: https://bidict.readthedocs.org/

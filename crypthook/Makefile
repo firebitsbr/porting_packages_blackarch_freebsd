@@ -1,0 +1,19 @@
+PORTNAME=	crypthook
+DISTVERSION=	18.690dcae
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	TCP/UDP symmetric encryption tunnel wrapper.
+WWW=		https://github.com/chokepoint/CryptHook
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/git
+
+RUN_DEPENDS=	security/openssl
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

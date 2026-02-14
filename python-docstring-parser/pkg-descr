@@ -1,0 +1,3 @@
+Parse Python docstrings. Currently support ReST, Google, and Numpydoc-style docstrings.
+
+WWW: https://pypi.org/project/docstring-parser/#files

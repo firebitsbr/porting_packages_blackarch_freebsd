@@ -1,0 +1,3 @@
+Attempts to find the enable password on a cisco system via brute force.
+
+WWW: http://packetstormsecurity.org/cisco/enabler.c

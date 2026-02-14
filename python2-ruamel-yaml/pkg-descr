@@ -1,0 +1,3 @@
+YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order.
+
+WWW: https://bitbucket.org/ruamel/yaml

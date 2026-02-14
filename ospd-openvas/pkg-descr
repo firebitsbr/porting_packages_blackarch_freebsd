@@ -1,0 +1,3 @@
+An OSP server implementation to allow GVM to remotely control an OpenVAS Scanner.
+
+WWW: https://github.com/greenbone/ospd-openvas

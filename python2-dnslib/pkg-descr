@@ -1,0 +1,3 @@
+Simple library to encode/decode DNS wire-format packets.
+
+WWW: https://pypi.org/project/dnslib/#files

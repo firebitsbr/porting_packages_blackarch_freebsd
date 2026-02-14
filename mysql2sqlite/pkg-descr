@@ -1,0 +1,3 @@
+Converts a mysqldump file into a Sqlite 3 compatible file.
+
+WWW: https://gist.github.com/esperlu/943776

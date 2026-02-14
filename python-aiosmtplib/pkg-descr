@@ -1,0 +1,3 @@
+Asynchronous SMTP client for use with asyncio.
+
+WWW: https://pypi.org/project/aiosmtplib/

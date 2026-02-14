@@ -1,0 +1,17 @@
+PORTNAME=	uniofuzz
+DISTVERSION=	1337
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	The universal fuzzing tool for browsers, web services, files, programs and network services/ports
+WWW=		http://nullsecurity.net/tools/fuzzer.html
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

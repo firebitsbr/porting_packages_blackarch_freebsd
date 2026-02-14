@@ -1,0 +1,3 @@
+A lightweight protocol implementation to perform TCP and authentication proxying over websockets.
+
+WWW: https://github.com/skelsec/wsnet

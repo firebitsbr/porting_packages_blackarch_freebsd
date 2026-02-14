@@ -1,0 +1,21 @@
+PORTNAME=	gitrecon
+DISTVERSION=	30.6467e78
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	OSINT tool to get information from a Github and Gitlab profile and find users email addresses leaked on commits.
+WWW=		https://github.com/GONZOsint/gitrecon
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/git
+
+RUN_DEPENDS=	??/py-rich@${PY_FLAVOR} \
+		lang/python \
+		www/py-requests@${PY_FLAVOR}
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

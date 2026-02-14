@@ -1,0 +1,3 @@
+A Dissect module implementing parsers for various executable formats such as PE, ELF and Macho-O.
+
+WWW: https://github.com/fox-it/dissect.executable

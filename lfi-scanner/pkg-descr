@@ -1,0 +1,3 @@
+This is a simple perl script that enumerates local file inclusion attempts when given a specific target.
+
+WWW: http://packetstormsecurity.com/files/102848/LFI-Scanner-4.0.html

@@ -1,0 +1,3 @@
+Prevents remote active/passive OS fingerprinting by tools like nmap or p0f.
+
+WWW: https://github.com/segofensiva/OSfooler-ng

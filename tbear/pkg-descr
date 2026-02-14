@@ -1,0 +1,3 @@
+Transient Bluetooth Environment Auditor includes an ncurses-based Bluetooth scanner (a bit similar to kismet), a Bluetooth DoS tool, and a Bluetooth hidden device locator.
+
+WWW: http://freshmeat.net/projects/t-bear

@@ -1,0 +1,3 @@
+Decrypts password stored in CMOS used to access BIOS setup.
+
+WWW: http://www.cgsecurity.org/wiki/CmosPwd

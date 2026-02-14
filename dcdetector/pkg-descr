@@ -1,0 +1,3 @@
+Spot all domain controllers in a Microsoft Active Directory environment. Find computer name, FQDN, and IP address(es) of all DCs.
+
+WWW: https://github.com/noraj/DCDetector

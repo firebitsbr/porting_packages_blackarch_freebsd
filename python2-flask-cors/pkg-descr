@@ -1,0 +1,3 @@
+A Flask extension adding a decorator for CORS support.
+
+WWW: https://pypi.org/project/Flask-Cors/#files

@@ -1,0 +1,21 @@
+PORTNAME=	python-pyngrok
+DISTVERSION=	7.5.0
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	A Python wrapper for Ngrok.
+WWW=		https://pypi.org/project/pyngrok/#files
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	??/py-build@${PY_FLAVOR} \
+		devel/py-pip@${PY_FLAVOR}
+
+RUN_DEPENDS=	??/ngrok \
+		lang/python
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

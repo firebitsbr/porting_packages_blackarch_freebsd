@@ -1,0 +1,3 @@
+A library to identify devices (phones, tablets) and their capabilities by parsing (browser/HTTP) user agent strings.
+
+WWW: https://pypi.org/project/user-agents/#files

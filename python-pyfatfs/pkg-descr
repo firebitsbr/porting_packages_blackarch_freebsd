@@ -1,0 +1,3 @@
+Python based FAT12/FAT16/FAT32 implementation with VFAT support.
+
+WWW: https://github.com/nathanhi/pyfatfs

@@ -1,0 +1,3 @@
+A real time packet processor. Reads the packet from an input module, match the packet using rules and connection tracking information and then send it to a target module.
+
+WWW: http://www.packet-o-matic.org/

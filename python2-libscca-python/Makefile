@@ -1,0 +1,18 @@
+PORTNAME=	python2-libscca-python
+DISTVERSION=	20250915
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	Library and tools to access the Windows Prefetch File (SCCA) format.
+WWW=		https://pypi.org/project/libscca-python/#files
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/py-setuptools@${PY_FLAVOR}
+
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

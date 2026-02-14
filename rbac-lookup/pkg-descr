@@ -1,0 +1,3 @@
+A CLI that allows you to easily find Kubernetes roles and cluster roles bound to any user.
+
+WWW: https://github.com/FairwindsOps/rbac-lookup

@@ -1,0 +1,3 @@
+Detects file inclusion, sql injection, command execution vulnerabilities of a target Joomla! web site.
+
+WWW: http://joomscan.sourceforge.net/

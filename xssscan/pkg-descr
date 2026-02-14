@@ -1,0 +1,3 @@
+Command line tool for detection of XSS attacks in URLs. Based on ModSecurity rules from OWASP CRS.
+
+WWW: https://github.com/gwroblew/detectXSSlib

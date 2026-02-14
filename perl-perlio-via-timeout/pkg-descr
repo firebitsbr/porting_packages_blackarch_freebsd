@@ -1,0 +1,3 @@
+A PerlIO layer that adds read & write timeout to a handle.
+
+WWW: https://metacpan.org/release/PerlIO-via-Timeout

@@ -1,0 +1,3 @@
+Ignore individual error codes per file with flake8.
+
+WWW: https://pypi.org/project/flake8-per-file-ignores/#files

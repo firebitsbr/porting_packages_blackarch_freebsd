@@ -1,0 +1,3 @@
+Multi-threaded golang tool that will check for nginx alias traversal vulnerabilities.
+
+WWW: https://github.com/hakaioffsec/navgix

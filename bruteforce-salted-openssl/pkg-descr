@@ -1,0 +1,3 @@
+Try to find the password of a file that was encrypted with the openssl command.
+
+WWW: https://github.com/glv2/bruteforce-salted-openssl

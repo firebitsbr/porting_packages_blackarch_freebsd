@@ -1,0 +1,3 @@
+A horizontal SSH scanner that scans large swaths of IPv4 space for a single SSH user and pass.
+
+WWW: https://github.com/getdual/scripts-n-tools/blob/master/sshscan.py

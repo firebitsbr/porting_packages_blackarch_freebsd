@@ -1,0 +1,3 @@
+A Python Tor controller with extensions to support path building and various constraints on node and path selection, as well as statistics gathering.
+
+WWW: http://fscked.org/projects/torctl

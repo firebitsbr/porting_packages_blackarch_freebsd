@@ -1,0 +1,3 @@
+ipdb/pdb statement checker plugin for flake8.
+
+WWW: https://pypi.org/project/flake8-debugger/

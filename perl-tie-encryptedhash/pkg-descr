@@ -1,0 +1,3 @@
+Hashes (and objects based on hashes) with encrypting fields.
+
+WWW: https://metacpan.org/pod/Tie::EncryptedHash

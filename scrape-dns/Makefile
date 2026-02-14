@@ -1,0 +1,20 @@
+PORTNAME=	scrape-dns
+DISTVERSION=	58.3df392f
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	Searches for interesting cached DNS entries.
+WWW=		https://github.com/304GEEK/Scrape-DNS
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/git
+
+RUN_DEPENDS=	??/dnsutils \
+		shells/bash
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

@@ -1,0 +1,3 @@
+A fast Go-based CLI tool to identify, extract, and classify hash types from structured data/files with JSON/CSV output and Hashcat/John formatting details (a hash identifier).
+
+WWW: https://github.com/ph4mished/hashpeek

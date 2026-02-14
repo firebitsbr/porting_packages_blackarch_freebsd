@@ -1,0 +1,3 @@
+The Dissect module tying all other Dissect modules together. It provides a programming API and command line tools which allow easy access to various data sources inside disk images or file collections (a.k.a. targets).
+
+WWW: https://github.com/fox-it/dissect.target

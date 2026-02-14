@@ -1,0 +1,3 @@
+Modular framework that takes advantage of poor upgrade implementations by injecting fake updates.
+
+WWW: https://github.com/infobyte/evilgrade

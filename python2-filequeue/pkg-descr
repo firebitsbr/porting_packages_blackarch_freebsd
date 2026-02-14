@@ -1,0 +1,3 @@
+A thread-safe queue object which is interchangeable with the stdlib Queue.
+
+WWW: https://pypi.org/project/filequeue/#files

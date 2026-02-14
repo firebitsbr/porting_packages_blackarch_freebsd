@@ -1,0 +1,3 @@
+VSTT is a multi-protocol tunneling tool. It accepts input by TCP stream sockets and FIFOs, and can send data via TCP, POP3, and ICMP tunneling.
+
+WWW: http://www.wendzel.de/dr.org/files/Projects/vstt/

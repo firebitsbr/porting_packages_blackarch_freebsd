@@ -1,0 +1,3 @@
+Extract strings from a Go binary using radare2.
+
+WWW: https://github.com/CarveSystems/gostringsr2

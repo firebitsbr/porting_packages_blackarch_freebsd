@@ -1,0 +1,3 @@
+A python tool to extract various credentials and secrets from Windows registry hives.
+
+WWW: https://github.com/moyix/creddump

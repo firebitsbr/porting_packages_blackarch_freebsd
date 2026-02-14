@@ -1,0 +1,3 @@
+Convert OpenSSH known_hosts file hashed with HashKnownHosts to hashes crackable by Hashcat.
+
+WWW: https://github.com/noraj/kh2hc

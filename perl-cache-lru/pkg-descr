@@ -1,0 +1,3 @@
+A simple, fast implementation of LRU cache in pure perl.
+
+WWW: http://search.cpan.org/~kazuho/Cache-LRU-0.04/lib/Cache/LRU.pm

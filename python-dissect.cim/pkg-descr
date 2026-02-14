@@ -1,0 +1,3 @@
+A Dissect module implementing a parser for the Windows Common Information Model (CIM) database, used in the Windows operating system.
+
+WWW: https://github.com/fox-it/dissect.cim

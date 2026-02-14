@@ -1,0 +1,3 @@
+Tool to analyzse JPEG images Reads binary files and parses the JPEG markers inside them.
+
+WWW: https://blog.didierstevens.com/my-software/#jpegdump

@@ -1,0 +1,3 @@
+A pure-perl DNS resolver with support for timeout.
+
+WWW: https://metacpan.org/pod/Net::DNS::Lite

@@ -1,0 +1,3 @@
+Encoder, decoder, and lint/validator for JSON (JavaScript Object Notation) compliant with RFC 4627.
+
+WWW: https://pypi.org/project/demjson/#files

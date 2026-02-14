@@ -1,0 +1,3 @@
+A Dissect module implementing a parser for different disk volume and partition systems, for example LVM2, GPT and MBR.
+
+WWW: https://github.com/fox-it/dissect.volume

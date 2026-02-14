@@ -1,0 +1,3 @@
+A Dissect module implementing a parser for the XFS file system, commonly used by RedHat Linux distributions.
+
+WWW: https://github.com/fox-it/dissect.xfs

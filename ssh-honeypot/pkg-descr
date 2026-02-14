@@ -1,0 +1,3 @@
+Fake sshd that logs ip addresses, usernames, and passwords.
+
+WWW: https://github.com/droberson/ssh-honeypot

@@ -1,0 +1,3 @@
+An implementation of time.monotonic() for Python 2 & < 3.3.
+
+WWW: https://pypi.org/project/monotonic/#files

@@ -1,0 +1,3 @@
+A Python wrapper library for demumble; demumble is a tool to demangle C++, Rust, and Swift symbol names.
+
+WWW: https://pypi.org/project/pydemumble/#files

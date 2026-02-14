@@ -1,0 +1,3 @@
+A password guessing tool that targets the Kerberos and LDAP services within the Windows Active Directory environment.
+
+WWW: https://github.com/optiv/Talon

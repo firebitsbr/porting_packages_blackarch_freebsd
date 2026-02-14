@@ -1,0 +1,3 @@
+require() modules from a variable.
+
+WWW: http://search.cpan.org/~neilb/UNIVERSAL-require/lib/UNIVERSAL/require.pm

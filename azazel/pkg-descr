@@ -1,0 +1,3 @@
+A userland rootkit based off of the original LD_PRELOAD technique from Jynx rootkit.
+
+WWW: https://github.com/chokepoint/azazel

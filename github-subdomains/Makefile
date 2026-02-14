@@ -1,0 +1,19 @@
+PORTNAME=	github-subdomains
+DISTVERSION=	v1.2.2.r1.g2bfdf12
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	Find subdomains on GitHub.
+WWW=		https://github.com/gwen001/github-subdomains
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/git \
+		lang/go
+
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

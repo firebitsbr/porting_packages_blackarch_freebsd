@@ -1,0 +1,3 @@
+Backport of the concurrent.futures package from Python 3.
+
+WWW: https://pypi.org/project/futures/#files

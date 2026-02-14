@@ -1,0 +1,3 @@
+Wkhtmltopdf python wrapper to convert html to pdf using the webkit rendering engine and qt.
+
+WWW: https://pypi.python.org/pypi/pdfkit/

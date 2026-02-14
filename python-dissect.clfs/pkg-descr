@@ -1,0 +1,3 @@
+A Dissect module implementing a parser for the CLFS (Common Log File System) file system of Windows.
+
+WWW: https://github.com/fox-it/dissect.clfs

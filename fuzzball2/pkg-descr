@@ -1,0 +1,3 @@
+A fuzzer for TCP and IP protocol options. It sends a bunch of more or less bogus packets to the target.
+
+WWW: http://nologin.org/

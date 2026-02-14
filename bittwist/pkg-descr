@@ -1,0 +1,3 @@
+A simple yet powerful libpcap-based Ethernet packet generator. It is designed to complement tcpdump, which by itself has done a great job at capturing network traffic.
+
+WWW: http://bittwist.sourceforge.net/

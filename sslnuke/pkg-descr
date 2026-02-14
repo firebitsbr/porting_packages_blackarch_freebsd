@@ -1,0 +1,3 @@
+Transparent proxy that decrypts SSL traffic and prints out IRC messages.
+
+WWW: https://github.com/jtripper/sslnuke

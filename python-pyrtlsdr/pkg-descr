@@ -1,0 +1,3 @@
+A Python wrapper for librtlsdr (a driver for Realtek RTL2832U based SDRs).
+
+WWW: https://pypi.org/project/pyrtlsdr/#files

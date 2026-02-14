@@ -1,0 +1,3 @@
+Performs a memory dump using NtSystemDebugControl.
+
+WWW: http://ntsecurity.nu/toolbox/memimager/

@@ -1,0 +1,3 @@
+A simple sshd password bruteforcer using a wordlist, its very fast for internal networks. Its multithreads.
+
+WWW: http://www.edge-security.com/edge-soft.php

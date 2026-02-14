@@ -1,0 +1,3 @@
+Remove illegal dhcp servers with IP-pool underflow.
+
+WWW: http://www.netpatch.ru/dhcdrop.html

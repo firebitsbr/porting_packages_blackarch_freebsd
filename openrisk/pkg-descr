@@ -1,0 +1,3 @@
+Generates a risk score based on the results of a Nuclei scan using OpenAIs GPT-3 model.
+
+WWW: https://github.com/projectdiscovery/openrisk

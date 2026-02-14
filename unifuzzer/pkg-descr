@@ -1,0 +1,3 @@
+A fuzzing tool for closed-source binaries based on Unicorn and LibFuzzer.
+
+WWW: https://github.com/rk700/uniFuzzer

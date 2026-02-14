@@ -1,0 +1,3 @@
+IO::Socket with read/write timeout.
+
+WWW: https://metacpan.org/pod/IO::Socket::Timeout

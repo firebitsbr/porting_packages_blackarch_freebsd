@@ -1,0 +1,3 @@
+Tool for injecting a shared object into a Linux process.
+
+WWW: https://github.com/gaffe23/linux-inject

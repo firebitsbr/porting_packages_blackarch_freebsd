@@ -1,0 +1,3 @@
+Parse NTLM over HTTP challenge messages.
+
+WWW: https://github.com/b17zr/ntlm_challenger

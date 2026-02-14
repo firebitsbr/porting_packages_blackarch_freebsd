@@ -1,0 +1,3 @@
+Recover event log entries from an image by heurisitically looking for record structures.
+
+WWW: https://github.com/williballenthin/LfLe

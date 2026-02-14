@@ -1,0 +1,3 @@
+A Dissect module implementing a parser for Microsofts Extensible Storage Engine Database (ESEDB), used for example in Active Directory, Exchange and Windows Update.
+
+WWW: https://github.com/fox-it/dissect.esedb

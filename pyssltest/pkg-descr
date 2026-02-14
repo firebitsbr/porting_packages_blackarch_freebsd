@@ -1,0 +1,3 @@
+A python multithreaded script to make use of Qualys ssllabs api to test SSL flaws.
+
+WWW: https://github.com/moheshmohan/pyssltest

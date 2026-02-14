@@ -1,0 +1,3 @@
+OSINT tool to get information from a Github and Gitlab profile and find users email addresses leaked on commits.
+
+WWW: https://github.com/GONZOsint/gitrecon

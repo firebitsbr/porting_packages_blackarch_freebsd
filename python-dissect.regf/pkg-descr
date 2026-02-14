@@ -1,0 +1,3 @@
+A Dissect module implementing a parser for Windows registry file format, used to store application and OS configuration on Windows operating systems.
+
+WWW: https://github.com/fox-it/dissect.regf

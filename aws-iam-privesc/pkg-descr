@@ -1,0 +1,3 @@
+AWS IAM policy scanner that helps determine where privilege escalation can be achieved.
+
+WWW: https://github.com/cyberqueenmeg/aws_iam_privesc

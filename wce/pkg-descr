@@ -1,0 +1,3 @@
+A security tool to list logon sessions and add, change, list and delete associated credentials (ex.: LM/NT hashes, plaintext passwords and Kerberos tickets).
+
+WWW: http://www.hoobie.net/wce/

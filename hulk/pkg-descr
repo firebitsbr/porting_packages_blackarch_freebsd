@@ -1,0 +1,3 @@
+A webserver DoS tool (Http Unbearable Load King) ported to Go with some additional features.
+
+WWW: https://github.com/grafov/hulk

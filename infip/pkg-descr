@@ -1,0 +1,3 @@
+A python script that checks output from netstat against RBLs from Spamhaus.
+
+WWW: http://packetstormsecurity.com/files/104927/infIP-0.1-Blacklist-Checker.html

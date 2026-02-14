@@ -1,0 +1,3 @@
+This script communicates with the Nessus API in an attempt to help with automating scans.
+
+WWW: https://github.com/redteamsecurity/AutoNessus

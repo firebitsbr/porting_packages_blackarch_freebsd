@@ -1,0 +1,21 @@
+PORTNAME=	xmlrpc-bruteforcer
+DISTVERSION=	36.6a46371
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	An XMLRPC brute forcer targeting Wordpress written in Python 3.
+WWW=		https://github.com/kavishgr/xmlrpc-bruteforcer
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+BUILD_DEPENDS=	devel/git
+
+RUN_DEPENDS=	??/py-termcolor@${PY_FLAVOR} \
+		lang/python \
+		www/py-requests@${PY_FLAVOR}
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

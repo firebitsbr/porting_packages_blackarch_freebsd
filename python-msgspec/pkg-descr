@@ -1,0 +1,3 @@
+A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML.
+
+WWW: https://pypi.org/project/msgspec/#files

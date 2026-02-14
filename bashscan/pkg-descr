@@ -1,0 +1,3 @@
+A port scanner built to utilize /dev/tcp for network and service discovery.
+
+WWW: https://github.com/astryzia/BashScan

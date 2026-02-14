@@ -1,0 +1,3 @@
+Checks for PATH substitution vulnerabilities and logs the commands executed by the vulnerable executables.
+
+WWW: https://github.com/ShotokanZH/Pa-th-zuzu

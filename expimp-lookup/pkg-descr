@@ -1,0 +1,3 @@
+Looks for all export and import names that contain a specified string in all Portable Executable in a directory tree.
+
+WWW: https://github.com/tr3w/ExpImp-Lookup

@@ -1,0 +1,3 @@
+Carve $MFT records from a chunk of data (for instance a memory dump).
+
+WWW: https://github.com/jschicht/MftCarver

@@ -1,0 +1,3 @@
+Scans for systems vulnerable to the heartbleed bug, and then download them.
+
+WWW: https://github.com/robertdavidgraham/heartleech

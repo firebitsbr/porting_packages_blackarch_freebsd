@@ -1,0 +1,3 @@
+python2 wrapper for tshark, allowing python2 packet parsing using wireshark dissectors.
+
+WWW: https://pypi.org/project/pyshark/#files

@@ -1,0 +1,3 @@
+A Dissect module implementing a parser for the NTFS file system, used by the Windows operating system.
+
+WWW: https://github.com/fox-it/dissect.ntfs

@@ -1,0 +1,3 @@
+A package of malware analysis tools in python to extract patterns of interest from suspicious files (IP addresses, domain names, known file headers, interesting strings, etc).
+
+WWW: https://bitbucket.org/decalage/balbuzard/

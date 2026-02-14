@@ -1,0 +1,3 @@
+This is a framework for HTTP related attacks. It is written in Perl with a GTK interface, has a proxy for debugging and manipulation, proxy chaining, evasion rules, and more.
+
+WWW: http://packetstormsecurity.com/files/104315/FHTTP-Attack-Tool-1.3.html

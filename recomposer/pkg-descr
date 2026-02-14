@@ -1,0 +1,3 @@
+Randomly changes Win32/64 PE Files for safer uploading to malware and sandbox sites.
+
+WWW: https://github.com/secretsquirrel/recomposer

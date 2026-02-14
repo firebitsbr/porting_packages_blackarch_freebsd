@@ -1,0 +1,3 @@
+ELF anti-forensics exec, for injecting full dynamic executables into process image (With thread injection).
+
+WWW: https://github.com/elfmaster/saruman

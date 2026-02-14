@@ -1,0 +1,3 @@
+Module for retrieving and parsing the WHOIS data for a domain. Supports most domains.
+
+WWW: https://pypi.org/project/pythonwhois/#files

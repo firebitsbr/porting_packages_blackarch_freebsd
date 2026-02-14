@@ -1,0 +1,3 @@
+A Flask extension that provides integration with MongoEngine and WTF model forms.
+
+WWW: https://pypi.org/project/flask-mongoengine/#files

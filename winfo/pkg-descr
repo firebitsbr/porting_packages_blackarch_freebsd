@@ -1,0 +1,3 @@
+Uses null sessions to remotely try to retrieve lists of and information about user accounts, workstation/interdomain/server trust accounts, shares (also hidden), sessions, logged in users, and password/lockout policy, from Windows NT/2000/XP.
+
+WWW: https://vidstromlabs.com/freetools/winfo/

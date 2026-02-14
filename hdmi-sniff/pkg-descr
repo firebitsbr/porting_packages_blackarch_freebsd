@@ -1,0 +1,3 @@
+HDMI DDC (I2C) inspection tool. It is designed to demonstrate just how easy it is to recover HDCP crypto keys from HDMI devices.
+
+WWW: https://github.com/ApertureLabsLtd/hdmi-sniff

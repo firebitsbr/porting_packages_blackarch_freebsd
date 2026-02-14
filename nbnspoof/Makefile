@@ -1,0 +1,19 @@
+PORTNAME=	nbnspoof
+DISTVERSION=	1.0
+CATEGORIES=	freebsd security
+
+MAINTAINER=	mauro.risonho@gmail.com
+COMMENT=	NetBIOS Name Service Spoofer.
+WWW=		http://www.mcgrewsecurity.com/tools/nbnspoof/
+
+LICENSE=	GPLv3 # Defaulting to GPLv3
+
+
+RUN_DEPENDS=	lang/python3 \
+		net/py-scapy@${PY_FLAVOR}
+
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	# Needs manual check
+
+.include <bsd.port.mk>

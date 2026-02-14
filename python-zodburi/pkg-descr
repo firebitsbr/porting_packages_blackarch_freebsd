@@ -1,0 +1,3 @@
+A library which parses URIs and converts them to ZODB storage objects and database arguments.
+
+WWW: https://pypi.org/project/zodburi/

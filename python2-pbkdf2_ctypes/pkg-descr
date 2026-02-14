@@ -1,0 +1,3 @@
+A pbkdf2 implementation for python using ctypes.
+
+WWW: https://pypi.org/project/pbkdf2-ctypes/#files

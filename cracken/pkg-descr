@@ -1,0 +1,3 @@
+A fast password wordlist generator, Smartlist creation and password hybrid-mask analysis tool written in pure safe Rust.
+
+WWW: https://github.com/shmuelamar/cracken

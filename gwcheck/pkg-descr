@@ -1,0 +1,3 @@
+A simple program that checks if a host in an ethernet network is a gateway to Internet.
+
+WWW: http://packetstormsecurity.com/files/62047/gwcheck.c.html

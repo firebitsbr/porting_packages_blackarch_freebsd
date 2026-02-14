@@ -1,0 +1,3 @@
+The goal of diStorm3 is to decode x86/AMD64 binary streams and return a structure that describes each instruction.
+
+WWW: https://pypi.org/project/distorm3/#files

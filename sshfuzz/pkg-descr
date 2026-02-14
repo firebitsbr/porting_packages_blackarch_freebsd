@@ -1,0 +1,3 @@
+A SSH Fuzzing utility written in Perl that uses Net::SSH2.
+
+WWW: https://packetstormsecurity.com/fuzzer/sshfuzz.txt

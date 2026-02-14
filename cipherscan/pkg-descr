@@ -1,0 +1,3 @@
+A very simple way to find out which SSL ciphersuites are supported by a target.
+
+WWW: https://github.com/jvehent/cipherscan

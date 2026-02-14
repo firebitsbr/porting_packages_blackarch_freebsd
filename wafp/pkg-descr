@@ -1,0 +1,3 @@
+An easy to use Web Application Finger Printing tool written in ruby using sqlite3 databases for storing the fingerprints.
+
+WWW: http://packetstormsecurity.com/files/84468/Web-Application-Finger-Printer-0.01-26c3.html

@@ -1,0 +1,3 @@
+Accurately separates the gTLD or ccTLD (generic or country code top-level domain) from the registered domain and subdomains of a URL.
+
+WWW: https://github.com/john-kurkowski/tldextract

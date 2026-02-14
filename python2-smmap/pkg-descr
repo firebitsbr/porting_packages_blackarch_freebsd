@@ -1,0 +1,3 @@
+A pure git implementation of a sliding window memory map manager.
+
+WWW: https://github.com/gitpython-developers/smmap

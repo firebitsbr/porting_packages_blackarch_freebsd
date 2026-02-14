@@ -1,0 +1,3 @@
+A python interface to Clamd (an anti-virus engine).
+
+WWW: https://pypi.python.org/pypi/clamd

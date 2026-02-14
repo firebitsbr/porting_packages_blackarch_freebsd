@@ -1,0 +1,3 @@
+A client-server storage for ZODB for sharing a single storage among many clients.
+
+WWW: https://pypi.org/project/ZEO/
