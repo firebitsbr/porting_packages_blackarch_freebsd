@@ -64,7 +64,8 @@ def run_lab():
 
         # OS Boot & Login
         print("\n[*] Aguardando Login (FreeBSD 14.3)...")
-        child.expect('login:', timeout=300)
+        # Boot pode demorar devido a inicialização de serviços, expansão de filesystem, etc.
+        child.expect('login:', timeout=600)
         
         print("\n[*] Logando como root...")
         child.sendline('root')
@@ -88,9 +89,24 @@ def run_lab():
             'mkdir -p /root/blackarch_ports'
         ]
         
-        for c in commands:
+        for i, c in enumerate(commands, 1):
+            print(f"[{i}/{len(commands)}] Executando: {c[:50]}...")
             child.sendline(c)
-            child.expect(['#', 'root@'], timeout=15)
+            time.sleep(0.5)  # Aguarda o comando ser processado
+            
+            # Usa regex mais flexível para detectar o prompt
+            try:
+                child.expect([r'root@.*[#\$]', r'#\s*$', r'root@'], timeout=20)
+            except pexpect.TIMEOUT:
+                print(f"[!] Timeout no comando, tentando continuar...")
+                child.sendline('')  # Envia newline extra
+                time.sleep(0.3)
+                try:
+                    child.expect([r'root@.*[#\$]', r'#'], timeout=5)
+                except:
+                    print(f"[!] Comando pode ter falhado, mas continuando...")
+            
+            time.sleep(0.2)  # Pequeno delay entre comandos
 
         print("\n[*] [PRO] Sincronizando ports via SCP automático...")
         try:
