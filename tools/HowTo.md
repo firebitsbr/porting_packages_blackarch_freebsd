@@ -83,41 +83,81 @@ python3 master_validation.py
 
 ### Método 2: Passo a Passo Manual
 
-#### Passo 1: Download da Imagem
+#### Arquitetura do Ambiente
+
+```
+┌─────────────────────────────────────────┐
+│  🐧 Linux Host (seu computador)         │
+│  - Executa QEMU/KVM                     │
+│  - Roda master_validation.py            │
+│  - Porta 2225 → FreeBSD:22              │
+│                                         │
+│  ┌───────────────────────────────────┐  │
+│  │  🔴 FreeBSD Guest (VM QEMU)       │  │
+│  │  - SSH na porta 22 (interna)      │  │
+│  │  - Valida ports em /root/         │  │
+│  └───────────────────────────────────┘  │
+└─────────────────────────────────────────┘
+```
+
+#### Passo 1: Download da Imagem (🐧 Linux Host)
 
 ```bash
 cd tools
 python3 download_freebsd.py
 ```
 
-#### Passo 2: Iniciar a VM
+**O que acontece:**
+
+- Obtém checksums oficiais do FreeBSD
+- Verifica hash SHA256 do arquivo existente
+- Pula download se o hash corresponder
+- Baixa apenas se necessário
+
+#### Passo 2: Iniciar a VM (🐧 Linux Host)
 
 ```bash
-python3 run_validation_lab.py
+python3 master_validation.py
 ```
 
-#### Passo 3: Conectar via SSH
+**O que acontece:**
+
+- Inicia QEMU com FreeBSD
+- Configura boot automático
+- Configura SSH (root/toor)
+- Sincroniza ports via SCP
+- Entra em modo interativo
+
+#### Passo 3: Conectar via SSH (🐧 Linux Host → 🔴 FreeBSD)
+
+**Em um novo terminal no Linux:**
 
 ```bash
 ssh -p 2225 root@localhost
 # Senha: toor
 ```
 
-#### Passo 4: Copiar Ports para a VM
+**Nota:** Este comando é executado **do Linux** e conecta **ao FreeBSD** rodando na VM.
 
-Do host:
+#### Passo 4: Copiar Ports para a VM (🐧 Linux Host → 🔴 FreeBSD)
+
+**Do Linux Host:**
 
 ```bash
 scp -P 2225 -r /home/test/Documents/Jobs/FreeBSD/packages/porting_packages_blackarch_freebsd/* root@localhost:/root/blackarch_ports/
 ```
 
-Dentro da VM:
+**Dentro do FreeBSD (via SSH):**
 
 ```bash
 mkdir -p /root/blackarch_ports
 ```
 
-#### Passo 5: Validar os Ports
+**Nota:** O `master_validation.py` já faz isso automaticamente!
+
+#### Passo 5: Validar os Ports (🔴 FreeBSD Guest)
+
+**Dentro do FreeBSD (via SSH):**
 
 ```bash
 cd /root/blackarch_ports/tools
@@ -125,7 +165,9 @@ chmod +x validate_ports_guest.sh
 ./validate_ports_guest.sh
 ```
 
-#### Passo 6: Recuperar Resultados
+#### Passo 6: Recuperar Resultados (🔴 FreeBSD → 🐧 Linux Host)
+
+**De volta ao terminal Linux:**
 
 ```bash
 scp -P 2225 root@localhost:/tmp/validation_results.txt ./validation_results.txt
